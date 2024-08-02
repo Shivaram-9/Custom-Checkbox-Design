@@ -37,12 +37,6 @@ The HTML file consists of:
 
 •	A body section containing a paragraph and a container with several checkboxes.
 
-**Each checkbox is implemented with:**
-
-•	An <input type="checkbox"> element.
-
-•	A <div class="box"> that includes an icon and text.
-
 **CSS Styling**
 
 **•	Global Styles:** Applies basic resets and font styling.
